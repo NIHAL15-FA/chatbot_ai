@@ -1,0 +1,8 @@
+pip install torch torchvision
+pip install pillow
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install sentence-transformers
+pip install transformers
+pip install gradio
